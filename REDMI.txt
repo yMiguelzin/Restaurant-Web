@@ -1,0 +1,12 @@
+/restaurante
+|-- index.html
+|-- styles.css
+|-- script.js
+|-- /images
+    |-- background.jpg
+    |-- prato1.jpg
+    |-- prato2.jpg
+    |-- prato3.jpg
+    |-- chef.jpg
+    |-- restaurant.jpg
+    |-- ambiance.jpg

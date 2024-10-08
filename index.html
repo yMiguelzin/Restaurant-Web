@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurante</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top shadow-lg">
+    <div class="container">
+        <a class="navbar-brand" href="#">
+            <img src="images/logo.jpg" alt="Logo do Restaurante" width="40" height="40" class="d-inline-block align-top">
+            <span class="font-weight-bold">Restaurante</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#sobre">Sobre</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#menu">Menu</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#galeria">Galeria</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contato">Contato</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+
+
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="hero-content text-center">
+            <h1>Experimente o Melhor da Gastronomia</h1>
+            <p>Um ambiente sofisticado e pratos inesquecíveis</p>
+            <a href="#menu" class="btn btn-primary btn-lg">Veja nosso Menu</a>
+        </div>
+    </header>
+
+    <!-- Sobre -->
+    <section id="sobre" class="container text-center mt-5">
+        <h2>Sobre Nós</h2>
+        <p>O Restaurante é reconhecido por suas criações inovadoras e uma experiência gastronômica de alto nível.</p>
+        <img src="images/chef.png" alt="Chef" class="img-fluid rounded-circle mt-4" width="200">
+        <p>Chefs renomados trabalhando com ingredientes frescos e locais.</p>
+    </section>
+
+    <!-- Menu -->
+<section id="menu" class="container mt-5">
+    <h2 class="text-center">Nosso Menu</h2>
+    <div class="row">
+        <div class="col-md-4 menu-item">
+            <img src="images/prato1.jpg" alt="Risotto de Frutos do Mar" class="img-fluid">
+            <h3>Risotto de Frutos do Mar</h3>
+            <p>Um risotto cremoso feito com arroz arbóreo, camarões, lulas e mexilhões.</p>
+        </div>
+        <div class="col-md-4 menu-item">
+            <img src="images/prato2.jpg" alt="Filé Mignon ao Molho Madeira" class="img-fluid">
+            <h3>Filé Mignon ao Molho Madeira</h3>
+            <p>Filé mignon grelhado, servido com molho madeira e purê de batatas.</p>
+        </div>
+        <div class="col-md-4 menu-item">
+            <img src="images/prato3.jpg" alt="Tiramisu" class="img-fluid">
+            <h3>Tiramisu</h3>
+            <p>Uma sobremesa clássica italiana com biscoitos de champanhe e mascarpone.</p>
+        </div>
+    </div>
+</section>
+
+
+    <!-- Galeria -->
+    <section id="galeria" class="container mt-5">
+        <h2 class="text-center">Galeria</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <img src="images/restaurant.jpg" alt="Restaurante" class="img-fluid mb-4">
+            </div>
+            <div class="col-md-4">
+                <img src="images/ambience.avif" alt="Ambiente" class="img-fluid mb-4">
+            </div>
+            <div class="col-md-4">
+                <img src="images/prato_prato.jpg" alt="Prato" class="img-fluid mb-4">
+            </div>
+        </div>
+    </section>
+
+    <!-- Contato -->
+    <section id="contato" class="container mt-5">
+        <h2 class="text-center">Contato</h2>
+        <form>
+            <div class="form-group">
+                <label for="nome">Nome</label>
+                <input type="text" class="form-control" id="nome" placeholder="Seu Nome" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" class="form-control" id="email" placeholder="Seu Email" required>
+            </div>
+            <div class="form-group">
+                <label for="mensagem">Mensagem</label>
+                <textarea class="form-control" id="mensagem" rows="3" placeholder="Sua Mensagem" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Enviar</button>
+        </form>
+    </section>
+
+    <!-- Footer -->
+    <footer class="text-center mt-5">
+        <p>&copy; 2024 Restaurante yMiguelzin. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.7/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
