@@ -32,8 +32,6 @@
 
 O Restaurante Web é uma aplicação web simples e ilustrativa.
 
-<
-
 ## Tecnologias e Ferramentas
 
 As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
