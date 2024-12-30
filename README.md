@@ -4,8 +4,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/made%20by-Miguel%20Preto-6558C3?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yMiguelzin/foodfy?color=6558C3&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/yMiguelzin/foodfy?color=6558C3&style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yMiguelzin/Restaurant-Web?color=6558C3&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/yMiguelzin/Restaurant-Web?color=6558C3&style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-6558C3?style=flat-square">
   </a>
@@ -57,11 +57,9 @@ Para rodar a aplicação, você precisa apenas descompactar o arquivo e acessar 
 
 <br>
 
+
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
 ---
 
 Feito com :purple_heart: by [Miguel Preto](https://github.com/yMiguelzin)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Preto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-henrique-m/)](https://www.linkedin.com/in/miguel-henrique-m/) 
-[![Gmail Badge](https://img.shields.io/badge/-miguelhclpimoveisgmail.com.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelhclpimoveisgmail.com)](mailto:miguelhclpimoveisgmail.com)
