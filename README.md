@@ -3,7 +3,7 @@
 <p>Simples restaurant web</p>
 
 <p>
-  <img src="https://img.shields.io/badge/made%20by-Miguel%20Preto-6558C3?style=flat-square">
+  <img src="https://img.shields.io/badge/made%20by-Miguel%20Marostica-6558C3?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yMiguelzin/Restaurant-Web?color=6558C3&style=flat-square">
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/yMiguelzin/Restaurant-Web?color=6558C3&style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
@@ -58,4 +58,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :purple_heart: by [Miguel Preto](https://github.com/yMiguelzin)
+Feito com :purple_heart: by [Miguel Marostica](https://github.com/yMiguelzin)
